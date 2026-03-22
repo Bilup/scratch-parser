@@ -1,13 +1,13 @@
 {
   "name": "scratch-parser",
-  "description": "Parser for Scratch projects",
-  "author": "MIT Media Lab",
+  "description": "Parser for Bilup projects",
+  "author": "Bilup",
   "license": "MPL-2.0",
-  "homepage": "https://github.com/LLK/scratch-parser#readme",
+  "homepage": "https://github.com/Bilup/scratch-parser#readme",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LLK/scratch-parser.git"
+    "url": "https://github.com/Bilup/scratch-parser.git"
   },
   "scripts": {
     "commitmsg": "commitlint -e $GIT_PARAMS",

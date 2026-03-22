@@ -1,4 +1,4 @@
-# @turbowarp/scratch-parser
+# @bilup/scratch-parser
 
 scratch-parser with bug fixes.
 
